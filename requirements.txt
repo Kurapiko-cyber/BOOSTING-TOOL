@@ -1,0 +1,11 @@
+apt upgrade && apt update
+pkg update && pkg upgrade
+pkg install python
+pkg install tur-repo
+pip install requests
+pip install rich
+pip install bs4
+pip install merchanized
+pip install mahdix
+pip install colorama
+python boosting.py
